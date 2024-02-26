@@ -28,12 +28,12 @@ streamlit run app.py
 Below are the screenshots of the web application interface showcasing the assessment and exploration features with visualizations.
 
 ### Assessment Page
-![Screenshot](homepage.png)
+![Screenshot](homePage.png)
 
 This is the assessment page where users can input employee details to predict access needs.
 
 ### Exploration with Visualizations
-![Screenshot](explorationpage.png)
+![Screenshot](explorationPage.png)
 
 This page provides a visualization interface for exploring the patterns and insights derived from the model predictions.
 ![Screenshot](p1.png)
