@@ -14,11 +14,27 @@ We've developed a user-friendly Streamlit web application, leveraging the power 
 
 ---
 
-#'Installation'
+##Installation
 Download the entire github package, load it onto a platform like VSCodes, change to the current folder directory.
 
-'Usage'
+##Usage
 The easiet way to run app.py is to run the following command:
 ```console
 streamlit run app.py
 ```
+
+## Web Application Interface
+
+Below are the screenshots of the web application interface showcasing the assessment and exploration features with visualizations.
+
+### Assessment Page
+![Screenshot](home page.png)
+
+This is the assessment page where users can input employee details to predict access needs.
+
+### Exploration with Visualizations
+![Screenshot](exploration page.png)
+
+This page provides a visualization interface for exploring the patterns and insights derived from the model predictions.
+![Screenshot](p1.png)
+![Screenshot](p2.png)
