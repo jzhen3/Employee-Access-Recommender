@@ -14,10 +14,10 @@ We've developed a user-friendly Streamlit web application, leveraging the power 
 
 ---
 
-##Installation
+Installation
 Download the entire github package, load it onto a platform like VSCodes, change to the current folder directory.
 
-##Usage
+Usage
 The easiet way to run app.py is to run the following command:
 ```console
 streamlit run app.py
