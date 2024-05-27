@@ -32,7 +32,7 @@ Below are the screenshots of the web application interface showcasing the assess
 
 This is the assessment page where users can input employee details to predict access needs.
 
-### Exploration with Visualizations
+### Visualization Page
 ![Screenshot](explorationPage.png)
 
 This page provides a visualization interface for exploring the patterns and insights derived from the model predictions.
