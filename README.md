@@ -4,7 +4,7 @@
 
 In many organizations, the process of granting employees access to necessary resources is often reactive and manual, leading to inefficiencies and wasted time. The Employee Access Recommender System is designed to automate this process using predictive modeling. By analyzing historical data on employees' roles and their access patterns, the system intelligently predicts access needs, facilitating a proactive approach to resource permissioning.
 
-If you would like to see the codes, please send a brief message to peterjinsong99@gmail.com
+If you would like to see the codes for the predictive modelling, please send a brief message to peterjinsong99@gmail.com
 
 ## Objective
 
