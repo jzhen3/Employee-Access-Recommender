@@ -17,6 +17,10 @@ Technical solution:
 Tools used -> Streamlit App Design, Catboost Model Prediction and Data Visualization.
 
 
+Metrics:
+
+The positive label indicates the service access app given in an employee record was approved and granted for access use, vice versas. The most crucial metric here will be the recall rate since the cost of not granting app service access to the right group of people in time is greater than granting an extra app service access to a random employee. Thereforem, the Catboost model needs to grow true positives and reduce the occurrences of false negatives.
+
 ![img1](img1.png)
 
 
@@ -32,4 +36,4 @@ Tools used -> Streamlit App Design, Catboost Model Prediction and Data Visualiza
 ![Insight](Insight.png)
 
 
-![Asssessment](Assessment1.png)
+![Asssessment](Assessment.png)
